@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.amigov2/wabra-mcp",
+  "name": "io.github.Amigov2/wabra-mcp",
   "title": "WABRA — WhatsApp Business for Brazil",
   "description": "WhatsApp Business + CNPJ enrichment (71M RFB) for Brazilian AI workflows.",
   "repository": {
