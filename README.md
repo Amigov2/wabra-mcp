@@ -57,7 +57,7 @@ Teste `enrich_cnpj` ao vivo no browser: https://jadetech-v2.vercel.app/connector
 
 Durante o soft launch, chaves são criadas manualmente após validação do caso de uso.
 
-Envie um email para **jade.investissement@gmail.com** com:
+Envie um email para **contato@jadetech.pro** com:
 - Seu CNPJ
 - Caso de uso principal
 - Cliente IA que você usa (Claude Desktop, Cursor, ChatGPT, etc.)
@@ -77,7 +77,7 @@ Resposta em até 24h úteis. Grátis durante o beta.
 - 🌐 Site: https://jadetech-v2.vercel.app
 - 📄 OpenAPI: https://jadetech-v2.vercel.app/api/openapi.json
 - 🧪 Playground: https://jadetech-v2.vercel.app/connectors/ia-mcp
-- 📧 Suporte: jade.investissement@gmail.com
+- 📧 Suporte: contato@jadetech.pro
 
 ## Sobre
 
